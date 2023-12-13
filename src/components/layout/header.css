@@ -1,0 +1,11 @@
+.style{
+    background-color: whitesmoke;
+    border-left: 1px solid gray;
+    border-radius: 0px;
+}
+.bottom{
+    border-bottom: 1px solid grey;
+}
+.color{
+    color: gray;
+}

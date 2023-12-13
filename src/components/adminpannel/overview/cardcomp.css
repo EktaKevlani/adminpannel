@@ -1,0 +1,21 @@
+.icon{
+    padding-top: 8%;
+    padding-left: 2%;
+    font-size: 1.5rem;
+    color: grey;
+}
+.card{
+    border: none;
+    box-shadow: 4px 4px 4px 4px grey;
+}
+.card-title{
+    color: grey;
+}
+.card-text{
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+.card-link{
+    text-decoration: none;
+   
+}
